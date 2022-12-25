@@ -205,7 +205,7 @@ def perform(downloaded,v,V,browser,e,operation,newest_file,RDB,progress):
     browser.get(url)
     user_input=browser.find_elements_by_class_name("TextField")
     input_username=user_input[0].send_keys('nmc')
-    input_password=user_input[1].send_keys('nmc123')
+    input_password=user_input[1].send_keys('***')
     login_button = browser.find_element_by_class_name("Button" )
     login_button.click()
     message_type=browser.find_element_by_xpath("//*[@id='mtype']/option[text()='Text Message']").click()
