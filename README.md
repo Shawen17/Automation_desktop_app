@@ -2,7 +2,7 @@
 
 #### About
 
-![alt text](http://url/to/img.png](https://github.com/Shawen17/Automation_desktop_app/blob/main/desktop-app.jpg)
+![alt text](https://github.com/Shawen17/Automation_desktop_app/blob/main/desktop-app.jpg)
 
 This is a desktop application (GUI) that is designed to automate Report preparation and also send out prepared reports.
 It automates the activity of an Excel sheet and sends out the desired report by a bulk sms platform.
