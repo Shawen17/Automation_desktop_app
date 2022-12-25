@@ -2,6 +2,8 @@
 
 #### About
 
+![alt text](http://url/to/img.png](https://github.com/Shawen17/Automation_desktop_app/desktop-app.jpg)
+
 This is a desktop application (GUI) that is designed to automate Report preparation and also send out prepared reports.
 It automates the activity of an Excel sheet and sends out the desired report by a bulk sms platform.
 The report is for both 2G and 3G base-station activities. The desktop application declares sites up, record the downtime duration and sends base stations currently down to field
